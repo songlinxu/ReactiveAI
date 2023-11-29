@@ -22,4 +22,6 @@ If you want to train the models from beginning using our datasets, here are the 
 - Run the third/fourth step in our cognitive agent framework: DDM + DRL agents to simulate perturbation of dynamic stimuli on human logical reasoning process: go to "rl_model" folder. env_run.py is used to run DDM + DRL agents and env_run_whole.py is used to run pure DRL agents as our baseline. More details and comments are in the files.
 
 
+## Related paper
 
+https://arxiv.org/abs/2301.06216
