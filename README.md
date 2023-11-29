@@ -26,7 +26,7 @@ If you want to train the models from beginning using our datasets, here are the 
 
 https://arxiv.org/abs/2301.06216
 
-## Cite Us
+## Cite us
 ```bibtex
 @article{xu2023modeling,
   title={Modeling Human Cognition with a Hybrid Deep Reinforcement Learning Agent},
