@@ -5,6 +5,7 @@
 - Please do not forget to install the necessary libraries to run each file.
 - We recommend to use python virtual environments like venv.
 - For Stable Baselines3, we use this version: stable-baselines3==1.5.0. However, stable-baselines3==2.2.1 should work as well.
+- Part of the code in math answer agents is adapted from Keras sequence model: https://keras.io/examples/nlp/addition_rnn/.
 
 ## Steps to replicate figures in the paper
 
