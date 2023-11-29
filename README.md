@@ -4,6 +4,7 @@
 
 - Please do not forget to install the necessary libraries to run each file.
 - We recommend to use python virtual environments like venv.
+- For Stable Baseline S3, we use this version: stable-baselines3==1.5.0
 
 ## Steps to replicate figures in the paper
 
