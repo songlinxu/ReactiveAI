@@ -1,0 +1,2 @@
+general,train_accu,train_f1,train_precision,train_recall,train_mae,train_mape,test_accu,test_f1,test_precision,test_recall,test_mae,test_mape
+general,0.8149208166380462,0.0,0.0,0.0,1.401516696377769,0.3350129095664088,0.8107488537952114,0.0,0.0,0.0,1.444104695924666,0.3739721197777326
