@@ -14,7 +14,7 @@
 - You could comment main codes to draw different figures in figure_plot.py. More details are in this file. 
 
 
-If you want to train the models from beginning using our datasets, here are the steps. Note that trainning from beginning usually takes lots of time (so you'd better have CUDA) and you have to first configure the virtual environments.
+If you want to train the models from beginning using our datasets, here are the steps. Note that trainning DRL models from beginning usually takes time (so you'd better have CUDA) and you have to first configure the virtual environments.
 
 ## Steps to train the model from beginning
 - Run the first step in our cognitive agent framework: LSTM-based logical reasoning agent trainning: go to "math_answer_agent" folder and run lstm_math.py (more comments and details are in this file).
